@@ -1,0 +1,4 @@
+Sistema: Gestão de Horários da Escola
+Versão: 1.0.0
+Spring Boot: 3.5.0
+Swagger: http://localhost:8080/swagger-ui.html
